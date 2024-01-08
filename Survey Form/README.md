@@ -4,7 +4,7 @@ This project is part of FreeCodeCamp's Web Design Certification Program. It demo
 
 ## Preview
 
-![Survey Form Preview](Survey%20Form.png)
+![Survey Form Preview](Survey%20Form.pdf)
 
 ## Features
 
