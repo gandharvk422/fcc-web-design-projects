@@ -29,7 +29,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gandharvk422/https://github.com/gandharvk422/Portfolio/
+   git clone https://github.com/gandharvk422/Portfolio/
    ```
 
 2. Open the `index.html` file in your preferred browser to view the portfolio website.
