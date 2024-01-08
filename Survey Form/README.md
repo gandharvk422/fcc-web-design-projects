@@ -27,7 +27,7 @@ To view or use the code:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gandharvk422/fcc-web-design-projects
+   git clone https://github.com/gandharvk422/fcc-web-design-projects/Survey%20Form/
    ```
 
 2. Open the `index.html` file in your preferred browser to view the survey form.
